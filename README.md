@@ -1,6 +1,12 @@
+# Python Collections
+
+- List
+- Tuple
+- Set
+- Dictionaries
+
 
 # Python Data Structure
-
 
 ## Recursion
 
