@@ -33,6 +33,10 @@ my_set = {1, 2, 3, 'a', 'b', 'c'}
 Set adalah kumpulan data yang tidak diurut dan tidak mengizinkan duplikasi. Elemen-elemennya tidak memiliki indeks dan urutannya bisa berubah.
 
 
+<br>
+<br>
+<br>
+
 
 ## Dict 
 
